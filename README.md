@@ -1,4 +1,4 @@
-00.CSharp-Basics
+CSharp-Basics
 ================
 
 Introduction to Programming with C#
