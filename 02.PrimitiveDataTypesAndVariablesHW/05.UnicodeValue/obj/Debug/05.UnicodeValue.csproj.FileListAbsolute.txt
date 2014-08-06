@@ -1,0 +1,7 @@
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\05.UnicodeValue\bin\Debug\05.UnicodeValue.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\05.UnicodeValue\bin\Debug\05.UnicodeValue.pdb
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\05.UnicodeValue\obj\Debug\05.UnicodeValue.csprojResolveAssemblyReference.cache
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\05.UnicodeValue\obj\Debug\05.UnicodeValue.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\05.UnicodeValue\obj\Debug\05.UnicodeValue.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\05.UnicodeValue\obj\Debug\05.UnicodeValue.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\05.UnicodeValue\obj\Debug\05.UnicodeValue.pdb

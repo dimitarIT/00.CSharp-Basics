@@ -1,0 +1,12 @@
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\09.IsoscelesTriangle\bin\Debug\09.IsoscelesTriangle.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\09.IsoscelesTriangle\bin\Debug\09.IsoscelesTriangle.pdb
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\09.IsoscelesTriangle\obj\Debug\09.IsoscelesTriangle.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\09.IsoscelesTriangle\obj\Debug\09.IsoscelesTriangle.pdb
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\09.IsoscelesTriangle\obj\Debug\09.IsoscelesTriangle.csprojResolveAssemblyReference.cache
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\09.IsoscelesTriangle\obj\Debug\09.IsoscelesTriangle.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\09.IsoscelesTriangle\obj\Debug\09.IsoscelesTriangle.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\09.IsoscelesTriangle\bin\Debug\09.IsoscelesTriangle.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\09.IsoscelesTriangle\bin\Debug\09.IsoscelesTriangle.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\09.IsoscelesTriangle\obj\Debug\09.IsoscelesTriangle.csprojResolveAssemblyReference.cache
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\2.HomeWork\PrimitiveDataTypesAndVariablesHW\09.IsoscelesTriangle\obj\Debug\09.IsoscelesTriangle.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\2.HomeWork\PrimitiveDataTypesAndVariablesHW\09.IsoscelesTriangle\obj\Debug\09.IsoscelesTriangle.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\06.BooleanVariable\bin\Debug\06.BooleanVariable.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\06.BooleanVariable\bin\Debug\06.BooleanVariable.pdb
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\06.BooleanVariable\obj\Debug\06.BooleanVariable.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\06.BooleanVariable\obj\Debug\06.BooleanVariable.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\06.BooleanVariable\obj\Debug\06.BooleanVariable.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\06.BooleanVariable\obj\Debug\06.BooleanVariable.pdb

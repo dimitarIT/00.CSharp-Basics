@@ -1,0 +1,7 @@
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\03.ComparingFloats\bin\Debug\03.ComparingFloats.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\03.ComparingFloats\bin\Debug\03.ComparingFloats.pdb
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\03.ComparingFloats\obj\Debug\03.ComparingFloats.csprojResolveAssemblyReference.cache
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\03.ComparingFloats\obj\Debug\03.ComparingFloats.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\03.ComparingFloats\obj\Debug\03.ComparingFloats.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\03.ComparingFloats\obj\Debug\03.ComparingFloats.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\03.ComparingFloats\obj\Debug\03.ComparingFloats.pdb

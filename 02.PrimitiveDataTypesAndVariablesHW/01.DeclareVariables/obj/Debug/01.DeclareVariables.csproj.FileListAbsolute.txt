@@ -1,0 +1,11 @@
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\01.DeclareVariables\bin\Debug\01.DeclareVariables.pdb
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\01.DeclareVariables\obj\Debug\01.DeclareVariables.csprojResolveAssemblyReference.cache
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\01.DeclareVariables\obj\Debug\01.DeclareVariables.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\01.DeclareVariables\obj\Debug\01.DeclareVariables.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\01.DeclareVariables\obj\Debug\01.DeclareVariables.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\01.DeclareVariables\obj\Debug\01.DeclareVariables.pdb
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\2.HomeWork\PrimitiveDataTypesAndVariablesHW\01.DeclareVariables\obj\Debug\01.DeclareVariables.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\2.HomeWork\PrimitiveDataTypesAndVariablesHW\01.DeclareVariables\obj\Debug\01.DeclareVariables.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\2.HomeWork\PrimitiveDataTypesAndVariablesHW\01.DeclareVariables\obj\Debug\01.DeclareVariables.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\2.HomeWork\PrimitiveDataTypesAndVariablesHW\01.DeclareVariables\obj\Debug\01.DeclareVariables.pdb

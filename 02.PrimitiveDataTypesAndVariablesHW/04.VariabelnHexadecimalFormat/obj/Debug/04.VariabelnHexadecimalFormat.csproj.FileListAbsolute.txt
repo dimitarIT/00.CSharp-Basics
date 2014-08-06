@@ -1,0 +1,7 @@
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\04.VariabelnHexadecimalFormat\bin\Debug\04.VariabelnHexadecimalFormat.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\04.VariabelnHexadecimalFormat\bin\Debug\04.VariabelnHexadecimalFormat.pdb
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\04.VariabelnHexadecimalFormat\obj\Debug\04.VariabelnHexadecimalFormat.csprojResolveAssemblyReference.cache
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\04.VariabelnHexadecimalFormat\obj\Debug\04.VariabelnHexadecimalFormat.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\04.VariabelnHexadecimalFormat\obj\Debug\04.VariabelnHexadecimalFormat.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\04.VariabelnHexadecimalFormat\obj\Debug\04.VariabelnHexadecimalFormat.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\04.VariabelnHexadecimalFormat\obj\Debug\04.VariabelnHexadecimalFormat.pdb

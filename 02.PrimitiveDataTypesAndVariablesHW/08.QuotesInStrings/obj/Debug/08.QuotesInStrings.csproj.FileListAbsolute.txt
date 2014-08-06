@@ -1,0 +1,6 @@
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\08.QuotesInStrings\bin\Debug\08.QuotesInStrings.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\08.QuotesInStrings\bin\Debug\08.QuotesInStrings.pdb
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\08.QuotesInStrings\obj\Debug\08.QuotesInStrings.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\08.QuotesInStrings\obj\Debug\08.QuotesInStrings.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\08.QuotesInStrings\obj\Debug\08.QuotesInStrings.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\08.QuotesInStrings\obj\Debug\08.QuotesInStrings.pdb

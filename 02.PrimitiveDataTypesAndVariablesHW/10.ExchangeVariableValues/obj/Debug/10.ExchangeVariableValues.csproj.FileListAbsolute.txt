@@ -1,0 +1,6 @@
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\10.ExchangeVariableValues\bin\Debug\10.ExchangeVariableValues.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\10.ExchangeVariableValues\bin\Debug\10.ExchangeVariableValues.pdb
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\10.ExchangeVariableValues\obj\Debug\10.ExchangeVariableValues.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\10.ExchangeVariableValues\obj\Debug\10.ExchangeVariableValues.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\10.ExchangeVariableValues\obj\Debug\10.ExchangeVariableValues.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\10.ExchangeVariableValues\obj\Debug\10.ExchangeVariableValues.pdb

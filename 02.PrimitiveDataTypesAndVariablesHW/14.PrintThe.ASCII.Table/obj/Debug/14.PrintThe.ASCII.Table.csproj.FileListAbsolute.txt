@@ -1,0 +1,16 @@
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\bin\Debug\14.PrintThe.ASCII.Table.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\bin\Debug\14.PrintThe.ASCII.Table.pdb
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\obj\Debug\14.PrintThe.ASCII.Table.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\obj\Debug\14.PrintThe.ASCII.Table.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\obj\Debug\14.PrintThe.ASCII.Table.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\obj\Debug\14.PrintThe.ASCII.Table.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\bin\Debug\14.PrintThe.ASCII.Table.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\bin\Debug\14.PrintThe.ASCII.Table.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\obj\Debug\14.PrintThe.ASCII.Table.csprojResolveAssemblyReference.cache
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\2.HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\obj\Debug\14.PrintThe.ASCII.Table.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\2.HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\obj\Debug\14.PrintThe.ASCII.Table.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\2.HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\obj\Debug\14.PrintThe.ASCII.Table.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\2.HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\obj\Debug\14.PrintThe.ASCII.Table.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\2.HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\bin\Debug\14.PrintThe.ASCII.Table.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\2.HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\bin\Debug\14.PrintThe.ASCII.Table.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\2.HomeWork\PrimitiveDataTypesAndVariablesHW\14.PrintThe.ASCII.Table\obj\Debug\14.PrintThe.ASCII.Table.csprojResolveAssemblyReference.cache

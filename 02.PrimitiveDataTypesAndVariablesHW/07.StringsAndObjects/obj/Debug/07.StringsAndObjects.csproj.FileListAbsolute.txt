@@ -1,0 +1,4 @@
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\07.StringsAndObjects\bin\Debug\07.StringsAndObjects.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\07.StringsAndObjects\bin\Debug\07.StringsAndObjects.pdb
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\07.StringsAndObjects\obj\Debug\07.StringsAndObjects.exe
+E:\SoftUni\01.C#Basics\1.2.Примитивни типове данни и променливи\HomeWork\PrimitiveDataTypesAndVariablesHW\07.StringsAndObjects\obj\Debug\07.StringsAndObjects.pdb
