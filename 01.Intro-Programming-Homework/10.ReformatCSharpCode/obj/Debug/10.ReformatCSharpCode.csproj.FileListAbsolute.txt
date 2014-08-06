@@ -1,0 +1,4 @@
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.pdb
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb

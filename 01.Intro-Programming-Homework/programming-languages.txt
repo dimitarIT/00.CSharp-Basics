@@ -1,0 +1,6 @@
+How similar are they to C#?
+      C# is a multi-paradigm programming language. It’s developed by Microsoft within the .NET initiative. C# covers strong typing, imperative, declarative, functional, generic,object-oriented (class-based), and component-oriented programming disciplines. 
+      C – is a general purpose programming language. It’s a foundation for some of the most commonly used languages in the world, like C++, Object-C, JavaScript, Java, PHP and many others.
+      C++ - it’s an old programming language designed for general object-oriented programming on machines running command line UI. Although an old language C++ is still a very commonly used language.
+      Java and C#. The two languages are more alike than they differ. For me C# is the more technically advanced programming language. But they have differences between the two under the sheets. Being an expert in one, does not make you an expert in the other by any stretch of the imagination. The syntax is similar and libraries are too, so it would be easier to get up to speed in one or the other, but there are subtleties that can trip you up.
+      Python is a dynamic language where Java and C# are really not. It is totally different than the other two. There are ways to accomplishing things in Python that do not translate well to the others and vice versa.

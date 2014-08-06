@@ -1,0 +1,7 @@
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\05.Print Your Name\bin\Debug\05.Print Your Name.exe
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\05.Print Your Name\bin\Debug\05.Print Your Name.pdb
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\05.Print Your Name\obj\Debug\05.PrintYourName.csprojResolveAssemblyReference.cache
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\05.Print Your Name\obj\Debug\05.Print Your Name.exe
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\05.Print Your Name\obj\Debug\05.Print Your Name.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.1.Въведение в програмирането\1.HomeWork\Intro-Programming-Homework\05.Print Your Name\obj\Debug\05.Print Your Name.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.1.Въведение в програмирането\1.HomeWork\Intro-Programming-Homework\05.Print Your Name\obj\Debug\05.Print Your Name.pdb

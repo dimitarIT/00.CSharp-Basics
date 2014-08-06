@@ -1,0 +1,10 @@
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.1.Въведение в програмирането\1.HomeWork\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.1.Въведение в програмирането\1.HomeWork\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.1.Въведение в програмирането\1.HomeWork\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.1.Въведение в програмирането\1.HomeWork\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.1.Въведение в програмирането\1.HomeWork\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.csprojResolveAssemblyReference.cache

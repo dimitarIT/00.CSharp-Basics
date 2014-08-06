@@ -1,0 +1,5 @@
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.pdb
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.csprojResolveAssemblyReference.cache
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.exe
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.pdb

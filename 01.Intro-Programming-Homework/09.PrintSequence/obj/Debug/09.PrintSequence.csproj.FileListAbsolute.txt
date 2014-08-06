@@ -1,0 +1,5 @@
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.exe
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.pdb
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\09.PrintSequence\obj\Debug\09.PrintSequence.exe
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\09.PrintSequence\obj\Debug\09.PrintSequence.pdb
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\09.PrintSequence\obj\Debug\09.PrintSequence.csprojResolveAssemblyReference.cache

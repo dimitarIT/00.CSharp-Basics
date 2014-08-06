@@ -1,0 +1,7 @@
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.pdb
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.csprojResolveAssemblyReference.cache
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
+E:\SoftUni\01.C#Basics\1.1.Въведение в програмирането\HomeWork\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.1.Въведение в програмирането\1.HomeWork\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.1.Въведение в програмирането\1.HomeWork\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb
