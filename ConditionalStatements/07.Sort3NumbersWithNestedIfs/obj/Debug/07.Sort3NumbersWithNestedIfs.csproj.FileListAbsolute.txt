@@ -1,4 +1,0 @@
-E:\SoftUni\01.C#Basics\1.5.Условни конструкции\5.HomeWork\5.ConditionalStatementsHomeWork\07.Sort3NumbersWithNestedIfs\bin\Debug\07.Sort3NumbersWithNestedIfs.exe
-E:\SoftUni\01.C#Basics\1.5.Условни конструкции\5.HomeWork\5.ConditionalStatementsHomeWork\07.Sort3NumbersWithNestedIfs\bin\Debug\07.Sort3NumbersWithNestedIfs.pdb
-E:\SoftUni\01.C#Basics\1.5.Условни конструкции\5.HomeWork\5.ConditionalStatementsHomeWork\07.Sort3NumbersWithNestedIfs\obj\Debug\07.Sort3NumbersWithNestedIfs.exe
-E:\SoftUni\01.C#Basics\1.5.Условни конструкции\5.HomeWork\5.ConditionalStatementsHomeWork\07.Sort3NumbersWithNestedIfs\obj\Debug\07.Sort3NumbersWithNestedIfs.pdb

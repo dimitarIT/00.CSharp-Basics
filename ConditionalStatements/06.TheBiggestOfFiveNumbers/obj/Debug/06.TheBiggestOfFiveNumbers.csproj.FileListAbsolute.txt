@@ -1,6 +1,0 @@
-M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.5.Условни конструкции\5.HomeWork\5.ConditionalStatementsHomeWork\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe
-M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.5.Условни конструкции\5.HomeWork\5.ConditionalStatementsHomeWork\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.pdb
-M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.5.Условни конструкции\5.HomeWork\5.ConditionalStatementsHomeWork\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.exe
-M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.5.Условни конструкции\5.HomeWork\5.ConditionalStatementsHomeWork\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.pdb
-E:\SoftUni\01.C#Basics\1.5.Условни конструкции\5.HomeWork\5.ConditionalStatementsHomeWork\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.exe
-E:\SoftUni\01.C#Basics\1.5.Условни конструкции\5.HomeWork\5.ConditionalStatementsHomeWork\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.pdb
