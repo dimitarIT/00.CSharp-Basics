@@ -1,0 +1,8 @@
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\01. NumbersFrom1ToN\bin\Debug\_01.NumbersFrom1ToN.exe.config
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\01. NumbersFrom1ToN\bin\Debug\_01.NumbersFrom1ToN.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\01. NumbersFrom1ToN\bin\Debug\_01.NumbersFrom1ToN.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\01. NumbersFrom1ToN\obj\Debug\01. NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\01. NumbersFrom1ToN\obj\Debug\_01.NumbersFrom1ToN.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\01. NumbersFrom1ToN\obj\Debug\_01.NumbersFrom1ToN.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\06.HomeWork\06.LoopsHomeWork\01. NumbersFrom1ToN\obj\Debug\_01.NumbersFrom1ToN.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\06.HomeWork\06.LoopsHomeWork\01. NumbersFrom1ToN\obj\Debug\_01.NumbersFrom1ToN.pdb
