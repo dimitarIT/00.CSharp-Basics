@@ -1,0 +1,10 @@
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.pdb
+E:\SoftUni\01.C#Basics\1.7.C# за напреднали\07.HomeWork\07.CharpAdvancedHomeWork\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.exe
+E:\SoftUni\01.C#Basics\1.7.C# за напреднали\07.HomeWork\07.CharpAdvancedHomeWork\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.pdb
+E:\SoftUni\01.C#Basics\1.7.C# за напреднали\07.HomeWork\07.CharpAdvancedHomeWork\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe
+E:\SoftUni\01.C#Basics\1.7.C# за напреднали\07.HomeWork\07.CharpAdvancedHomeWork\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.pdb
+E:\SoftUni\01.C#Basics\1.7.C# за напреднали\07.HomeWork\07.CharpAdvancedHomeWork\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.csprojResolveAssemblyReference.cache

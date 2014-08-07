@@ -1,0 +1,5 @@
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\17.PerimeterAndAreaOfPolygon\bin\Debug\17.PerimeterAndAreaOfPolygon.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\17.PerimeterAndAreaOfPolygon\bin\Debug\17.PerimeterAndAreaOfPolygon.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\17.PerimeterAndAreaOfPolygon\obj\Debug\17.PerimeterAndAreaOfPolygon.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\17.PerimeterAndAreaOfPolygon\obj\Debug\17.PerimeterAndAreaOfPolygon.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\17.PerimeterAndAreaOfPolygon\obj\Debug\17.PerimeterAndAreaOfPolygon.pdb

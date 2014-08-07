@@ -1,0 +1,7 @@
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\05.SortingNumbers\obj\Debug\05.SortingNumbers.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\05.SortingNumbers\bin\Debug\5.SortingNumbers.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\05.SortingNumbers\bin\Debug\5.SortingNumbers.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\05.SortingNumbers\obj\Debug\5.SortingNumbers.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\05.SortingNumbers\obj\Debug\5.SortingNumbers.pdb
+E:\SoftUni\01.C#Basics\1.7.C# за напреднали\07.HomeWork\07.CharpAdvancedHomeWork\05.SortingNumbers\obj\Debug\5.SortingNumbers.exe
+E:\SoftUni\01.C#Basics\1.7.C# за напреднали\07.HomeWork\07.CharpAdvancedHomeWork\05.SortingNumbers\obj\Debug\5.SortingNumbers.pdb

@@ -1,0 +1,7 @@
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.pdb
+E:\SoftUni\01.C#Basics\1.7.C# за напреднали\07.HomeWork\07.CharpAdvancedHomeWork\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.exe
+E:\SoftUni\01.C#Basics\1.7.C# за напреднали\07.HomeWork\07.CharpAdvancedHomeWork\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.pdb

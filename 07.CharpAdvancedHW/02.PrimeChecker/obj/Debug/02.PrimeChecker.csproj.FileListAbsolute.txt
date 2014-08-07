@@ -1,0 +1,5 @@
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\02.PrimeChecker\obj\Debug\02.PrimeChecker.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.7.C# за напреднали\07.CharpAdvancedHomeWork\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb
