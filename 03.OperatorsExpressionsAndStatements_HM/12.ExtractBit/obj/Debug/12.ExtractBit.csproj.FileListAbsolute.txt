@@ -1,0 +1,5 @@
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\12.ExtractBit\bin\Debug\12.ExtractBit.exe
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\12.ExtractBit\bin\Debug\12.ExtractBit.pdb
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\12.ExtractBit\obj\Debug\12.ExtractBit.exe
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\12.ExtractBit\obj\Debug\12.ExtractBit.pdb
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\12.ExtractBit\obj\Debug\12.ExtractBit.csprojResolveAssemblyReference.cache

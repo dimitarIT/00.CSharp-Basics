@@ -1,0 +1,7 @@
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\08.PrimeNumberCheck\bin\Debug\8.PrimeNumberCheck.exe
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\08.PrimeNumberCheck\bin\Debug\8.PrimeNumberCheck.pdb
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\08.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.exe
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\08.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.pdb
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\08.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\08.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.pdb

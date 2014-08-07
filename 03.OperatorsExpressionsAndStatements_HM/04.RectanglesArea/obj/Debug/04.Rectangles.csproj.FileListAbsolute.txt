@@ -1,0 +1,6 @@
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\04.RectanglesArea\bin\Debug\04.Rectangles.exe
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\04.RectanglesArea\bin\Debug\04.Rectangles.pdb
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\04.RectanglesArea\obj\Debug\04.Rectangles.exe
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\04.RectanglesArea\obj\Debug\04.Rectangles.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\04.RectanglesArea\obj\Debug\04.Rectangles.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\04.RectanglesArea\obj\Debug\04.Rectangles.pdb

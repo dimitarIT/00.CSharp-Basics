@@ -1,0 +1,7 @@
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\03.BooleanExpression\bin\Debug\03.Divideby7and 5.exe
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\03.BooleanExpression\bin\Debug\03.Divideby7and 5.pdb
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\03.BooleanExpression\obj\Debug\03.Divideby7and 5.exe
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\03.BooleanExpression\obj\Debug\03.Divideby7and 5.pdb
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\03.BooleanExpression\obj\Debug\03.BooleanExpression.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\03.BooleanExpression\obj\Debug\03.Divideby7and 5.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\03.BooleanExpression\obj\Debug\03.Divideby7and 5.pdb

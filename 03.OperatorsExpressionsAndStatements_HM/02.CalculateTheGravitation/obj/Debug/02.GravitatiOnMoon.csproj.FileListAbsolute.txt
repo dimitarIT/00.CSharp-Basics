@@ -1,0 +1,11 @@
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\02.CalculateTheGravitation\bin\Debug\02.GravitationOthe Moon.exe
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\02.CalculateTheGravitation\bin\Debug\02.GravitationOthe Moon.pdb
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\02.CalculateTheGravitation\obj\Debug\02.GravitationOthe Moon.exe
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\02.CalculateTheGravitation\obj\Debug\02.GravitationOthe Moon.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\02.CalculateTheGravitation\obj\Debug\02.GravitationOthe Moon.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\02.CalculateTheGravitation\bin\Debug\02.GravitationOthe Moon.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\02.CalculateTheGravitation\bin\Debug\02.GravitationOthe Moon.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\02.CalculateTheGravitation\obj\Debug\02.GravitationOthe Moon.pdb
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\02.CalculateTheGravitation\obj\Debug\02.GravitatiOnMoon.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\02.CalculateTheGravitation\obj\Debug\02.GravitationOthe Moon.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\02.CalculateTheGravitation\obj\Debug\02.GravitationOthe Moon.pdb

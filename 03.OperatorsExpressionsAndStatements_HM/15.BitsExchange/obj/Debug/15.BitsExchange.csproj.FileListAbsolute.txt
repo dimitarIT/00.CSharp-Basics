@@ -1,0 +1,15 @@
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\obj\Debug\15.BitsExchange.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\obj\Debug\15.BitsExchange.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+M:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\obj\Debug\15.BitsExchange.csprojResolveAssemblyReference.cache
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\obj\Debug\15.BitsExchange.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\obj\Debug\15.BitsExchange.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\15.BitsExchange\obj\Debug\15.BitsExchange.csprojResolveAssemblyReference.cache

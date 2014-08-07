@@ -1,0 +1,5 @@
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\10.CircleAndRectangle\bin\Debug\10.CircleAndRectangle.exe
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\10.CircleAndRectangle\bin\Debug\10.CircleAndRectangle.pdb
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\10.CircleAndRectangle\obj\Debug\10.CircleAndRectangle.csprojResolveAssemblyReference.cache
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\10.CircleAndRectangle\obj\Debug\10.CircleAndRectangle.exe
+E:\SoftUni\01.C#Basics\1.3.Оператори и изрази\3.HomeWork\OperatorsExpressionsAndStatements_HM\10.CircleAndRectangle\obj\Debug\10.CircleAndRectangle.pdb
