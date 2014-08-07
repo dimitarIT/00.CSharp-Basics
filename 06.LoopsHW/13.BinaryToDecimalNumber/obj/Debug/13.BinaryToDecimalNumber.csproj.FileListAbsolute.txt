@@ -1,0 +1,5 @@
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.csprojResolveAssemblyReference.cache

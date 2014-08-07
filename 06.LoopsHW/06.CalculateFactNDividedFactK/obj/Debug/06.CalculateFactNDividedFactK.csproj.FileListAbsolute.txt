@@ -1,0 +1,5 @@
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\06.CalculateFactNDividedFactK\obj\Debug\06.CalculateFactNDividedFactK.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\06.CalculateFactNDividedFactK\bin\Debug\06.CalculateFactNDividedFactK.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\06.CalculateFactNDividedFactK\bin\Debug\06.CalculateFactNDividedFactK.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\06.CalculateFactNDividedFactK\obj\Debug\06.CalculateFactNDividedFactK.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\06.CalculateFactNDividedFactK\obj\Debug\06.CalculateFactNDividedFactK.pdb

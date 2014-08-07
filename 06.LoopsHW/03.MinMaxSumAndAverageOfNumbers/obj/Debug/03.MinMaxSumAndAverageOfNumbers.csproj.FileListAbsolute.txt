@@ -1,0 +1,5 @@
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\03.MinMaxSumAndAverageOfNumbers\obj\Debug\03.MinMaxSumAndAverageOfNumbers.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\03.MinMaxSumAndAverageOfNumbers\bin\Debug\03.MinMaxSumAndAverageOfNumbers.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\03.MinMaxSumAndAverageOfNumbers\bin\Debug\03.MinMaxSumAndAverageOfNumbers.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\03.MinMaxSumAndAverageOfNumbers\obj\Debug\03.MinMaxSumAndAverageOfNumbers.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\03.MinMaxSumAndAverageOfNumbers\obj\Debug\03.MinMaxSumAndAverageOfNumbers.pdb

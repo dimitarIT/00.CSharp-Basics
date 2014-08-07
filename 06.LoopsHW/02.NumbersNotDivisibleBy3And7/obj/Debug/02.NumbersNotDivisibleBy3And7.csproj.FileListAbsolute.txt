@@ -1,0 +1,5 @@
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.pdb

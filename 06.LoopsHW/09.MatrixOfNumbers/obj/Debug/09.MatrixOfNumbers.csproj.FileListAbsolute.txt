@@ -1,0 +1,7 @@
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.csprojResolveAssemblyReference.cache
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\06.HomeWork\06.LoopsHomeWork\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\06.HomeWork\06.LoopsHomeWork\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

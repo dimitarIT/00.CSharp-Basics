@@ -1,0 +1,4 @@
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\12.RandomizeNumbers1N\bin\Debug\12.RandomizeNumbers1N.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\12.RandomizeNumbers1N\bin\Debug\12.RandomizeNumbers1N.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\12.RandomizeNumbers1N\obj\Debug\12.RandomizeNumbers1N.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\12.RandomizeNumbers1N\obj\Debug\12.RandomizeNumbers1N.pdb

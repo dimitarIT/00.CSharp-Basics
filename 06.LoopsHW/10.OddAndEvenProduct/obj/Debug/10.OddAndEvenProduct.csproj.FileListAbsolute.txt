@@ -1,0 +1,6 @@
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\6.HomeWork\6.LoopsHomeWork\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\06.HomeWork\06.LoopsHomeWork\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+E:\Dropbox\MyPlace\1.0.SoftUni\01.C#Basics\1.6.Цикли\06.HomeWork\06.LoopsHomeWork\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb
