@@ -9,7 +9,7 @@ class DateAfter10Years
         Byte age;
         Console.Write("Please enter your age: ");
         age = byte.Parse(Console.ReadLine());
-        if (age < 120)
+        if (age < 121)
         {
             Console.WriteLine("After 10 years you'll be {0} years old!", age + 10);
         }
